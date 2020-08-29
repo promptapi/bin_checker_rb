@@ -21,7 +21,21 @@ $ gem install bin_checker_rb
 
 ## Example Usage
 
-@wip
+```ruby
+require "bin_checker_rb"
+
+bin_information = BinCheckerRb.check('302596')
+bin_information[:bank_name] # "Diners Club International"
+
+# {
+#     :bank_name=>"Diners Club International", 
+#     :country=>"United States Of America", 
+#     :url=>"www.dinersclub.com", 
+#     :type=>"Credit", 
+#     :scheme=>"Discover", 
+#     :bin=>"302596"
+# }
+```
 
 ---
 
@@ -40,7 +54,13 @@ push git commits and tags, and push the `.gem` file to
 ```bash
 $ rake -T
 
-# @wip
+rake build            # Build bin_checker_rb-X.X.X.gem into the pkg directory
+rake clean            # Remove any temporary products
+rake clobber          # Remove any generated files
+rake install          # Build and install bin_checker_rb-X.X.X.gem into system gems
+rake install:local    # Build and install bin_checker_rb-X.X.X.gem into system gems without network access
+rake release[remote]  # Create tag v0.0.0 and build and push bin_checker_rb-X.X.X.gem to rubygems.org
+rake test             # Run tests
 ```
 
 ---
