@@ -1,5 +1,5 @@
 ![Ruby](https://img.shields.io/badge/ruby-2.7.0-green.svg)
-![Version](https://img.shields.io/badge/version-0.1.0-orange.svg)
+![Version](https://img.shields.io/badge/version-0.2.0-orange.svg)
 
 # Prompt API - BIN Checker - Ruby Package
 
