@@ -1,5 +1,5 @@
 ![Ruby](https://img.shields.io/badge/ruby-2.7.0-green.svg)
-![Version](https://img.shields.io/badge/version-0.2.0-orange.svg)
+[![Gem Version](https://badge.fury.io/rb/bin_checker_rb.svg)](https://badge.fury.io/rb/bin_checker_rb)
 
 # Prompt API - BIN Checker - Ruby Package
 
@@ -15,6 +15,12 @@ then;
 
 ```bash
 $ gem install bin_checker_rb
+```
+
+or; install from GitHub:
+
+```bash
+$ gem install bin_checker_rb --version "0.2.0" --source "https://rubygems.pkg.github.com/promptapi"
 ```
 
 ---
