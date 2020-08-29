@@ -22,7 +22,7 @@ $ gem install bin_checker_rb
 or; install from GitHub:
 
 ```bash
-$ gem install bin_checker_rb --version "0.2.0" --source "https://rubygems.pkg.github.com/promptapi"
+$ gem install bin_checker_rb --version "0.2.1" --source "https://rubygems.pkg.github.com/promptapi"
 ```
 
 ---
