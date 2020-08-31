@@ -102,7 +102,7 @@ the [code of conduct][coc].
 ---
 
 
-[bincheck-api]:     https://promptapi.com/marketplace/docs/bincheck-api
+[bincheck-api]:     https://promptapi.com/marketplace/description/bincheck-api
 [promptapi-signup]: https://promptapi.com/#signup-form
 [rubygems]:         https://rubygems.org
 [coc]:              https://github.com/promptapi/bin_checker_rb/blob/main/CODE_OF_CONDUCT.md
