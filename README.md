@@ -5,7 +5,7 @@
 
 # Prompt API - BIN Checker - Ruby Package
 
-`bin_checker_rb` is a simple python wrapper for [bincheck-api][bincheck-api].
+`bin_checker_rb` is a simple ruby wrapper for [bincheck-api][bincheck-api].
 
 ## Requirements
 
