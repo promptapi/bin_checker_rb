@@ -89,7 +89,7 @@ This project is licensed under MIT
 
 Bug reports and pull requests are welcome on GitHub:
 
-1. `fork` (https://github.com/promptapi/bin-checker-rb/fork)
+1. `fork` (https://github.com/promptapi/bin_checker_rb/fork)
 1. Create your `branch` (`git checkout -b my-feature`)
 1. `commit` yours (`git commit -am 'Add awesome features...'`)
 1. `push` your `branch` (`git push origin my-feature`)
